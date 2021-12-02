@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 
-
-from os import scandir
-
-
 class day1:
     def __init__(self):
         self.test_file = open("./test", "r")
